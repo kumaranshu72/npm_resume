@@ -1,12 +1,24 @@
 {
-    "Education":[
-        "Failed Highschool",
-        "Failed Graduation"
-    ],
     "Past Experience": [
         "I am just a kid right now"
     ],
-    "Tech Stack": ["troubling other", "getting high"],
+    "Education":[
+        "Indian Institute of Information Technology, Sonepat | 8.2/10 \n|\tInformation Technology , Bachelor of Technology | 2014–2018",
+        "Delhi Public School, NTPC Dadri | 81.6% \n|\tSenior High Secondary Education | 2012–2014"
+    ],
     "Projects": ["Good for Nothing"],
-    "contact": ["+91-9728430541"]
+    "Tech Stack": [
+        "Programming Languages: C, C++, Java, Python, Apex, JavaScript",
+        "Web Technologies: php, node",
+        "Frameworks: Ruby on Rails, Express",
+        "Databases: mySql, MongoDB",
+        "Others: Redis, Docker, Git"
+    ],
+    "Contact": [
+        "Address: B-636, NTPC Vidyut Nagar, Gautam Budh Nagar, Dadri, UP-201008", 
+        "Phone: +91-9728430541",
+        "Email: kumaranshu72@gmail.com",
+        "Github: https://github.com/kumaranshu72",
+        "LinkedIn: https://www.linkedin.com/in/kumaranshu72"
+    ]
 }
